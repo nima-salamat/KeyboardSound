@@ -1,10 +1,10 @@
 
 ---
+A desktop app that plays custom sound effects whenever you press or release a keyboard key. Built with Python, `pydub`, `pygame`, `pynput`, and `ttkbootstrap` for a stylish GUI.
 
 # 🎹 Keyboard Sound App
 ![Screenshot of the app](screenshot.png)
 
-A desktop app that plays custom sound effects whenever you press or release a keyboard key. Built with Python, `pydub`, `pygame`, `pynput`, and `ttkbootstrap` for a stylish GUI.
 
 ---
 
